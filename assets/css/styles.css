@@ -1,0 +1,25 @@
+body {
+    background: black;
+}
+
+.custJum {
+    background: #34a8eb;
+}
+
+#custCardHead{
+    background: #34a8eb;
+    text-align: center;
+}
+
+.btn {
+    background: #34a8eb;
+    text-align: center;
+}
+
+.table {
+    text-align: center;
+}
+
+.table thead th {
+    border-top: 0;
+}
